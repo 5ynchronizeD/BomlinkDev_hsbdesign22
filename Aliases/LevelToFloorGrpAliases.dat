@@ -1,0 +1,68 @@
+﻿START
+Alias
+Expression
+Level 1
+Text
+Plan 1
+END
+Alias
+START
+Alias
+Expression
+Level 2
+Text
+Plan 2
+END
+Alias
+START
+Alias
+Expression
+Level 1B
+Text
+Plan 1B
+END
+Alias
+START
+Alias
+Expression
+Level 2B
+Text
+Plan 2B
+END
+Alias
+START
+Alias
+Expression
+Plan 1
+Text
+Plan 1
+END
+Alias
+START
+Alias
+Expression
+Plan 2
+Text
+Plan 2
+END
+Alias
+START
+Alias
+Expression
+Plan 1B
+Text
+Plan 1B
+END
+Alias
+START
+Alias
+Expression
+Plan 2B
+Text
+Plan 2B
+END
+Alias
+98UNIT40
+millimeter
+98UNIT44
+angle_degree
